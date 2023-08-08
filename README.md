@@ -14,3 +14,12 @@ Support in CatVod (CrossPlatform) version 6.0 or above.
 - iOS base on JavaScriptCore.
 
 This repository is just a simple demo. For complete development documents, refer to group files. 
+
+
+
+
+
+
+
+
+
